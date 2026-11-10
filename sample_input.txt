@@ -1,0 +1,11 @@
+# Assign 6 workers to 6 production stations.
+# First value: N (the matrix is square, N x N)
+# Then: time in minutes needed by worker i (row) on station j (column)
+# Empty lines and anything after a '#' are ignored.
+6
+36 39 46 36 36 38
+40 28 27 47 38 37
+42 41 47 27 25 36
+31 26 24 39 47 44
+42 23 41 34 36 42
+45 41 42 27 41 22
